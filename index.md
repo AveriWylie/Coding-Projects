@@ -12,13 +12,13 @@ Full Stack Developer in my first years at laurier, completing my honours BSc in 
 
 ## Featured Projects:
 
-### [Project 1: Space Invaders](https://github.com/AveriWylie/project1)
+### Project 1: Space Invaders
 A object oriented program, that incorporates personalized colours, and game-mode (free for all, 3 lives, no time limit), and modern programming; into a fun, easy to use game. 
 
 
 - **Tech Stack**: Eclipse, PyDev, pygame
 - **Description**: This program simulates the hit arcade game: Space Invaders.
-- **Demo**: [Live Demo](https://yourprojectdemo.com)
+- **Demo**: [Live Demo]([https://yourprojectdemo.com](https://github.com/AveriWylie/Project-1---Space-Invaders/tree/main))
 
 ---
 
