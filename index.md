@@ -1,4 +1,9 @@
+# Averi Wylie's Coding Projects 2025 - 2026
+
+Welcome to my collection of coding projects! Here, you'll find a variety of projects showcasing my skills in python. Feel free to explore each project, and how they were made by clicking on the links below.
+
 ---
-title: Welcome to my blog
----
+
+##  All codes were made using Eclipse, PyDev.
+##  All other tech stacks used/imported for the programs to run will be stated on the projects page.
 
