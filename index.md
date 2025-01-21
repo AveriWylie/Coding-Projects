@@ -1,9 +1,40 @@
-# Averi Wylie's Coding Projects 2025 - 2026
+# Averi Wylie - Full Stack Developer | AI Enthusiast | Logical Problem Solver
 
-Welcome to my collection of coding projects! Here, you'll find a variety of projects showcasing my skills in python. Feel free to explore each project, and how they were made by clicking on the links below.
+Welcome to my portfolio showcasing a selection of coding projects demonstrating the information I have learned at laurier leading in my first two years. I hope to specialize in machine learning, and these are stepping stones in developing my logic to one day achieve that.
 
 ---
 
-##  All codes were made using Eclipse, PyDev.
-##  All other tech stacks used for any one program to run will be stated on the programs project page.
+## About Me:
+
+Full Stack Developer in my first years at laurier, completing my honours BSc in Computer Science degree. I've been programming since high school, where I originally learned C#, however, univseristies follow a python - c++ learning model these days, and as such, these projects are pythonic. 
+
+---
+
+## Featured Projects:
+
+### [Project 1: Space Invaders](https://github.com/AveriWylie/project1)
+A object oriented program, that incorporates personalized colours, and game-mode (free for all, 3 lives, no time limit), and modern programming; into a fun, easy to use game. 
+
+
+- **Tech Stack**: Eclipse, PyDev, pygame
+- **Description**: This program simulates the hit arcade game: Space Invaders.
+- **Demo**: [Live Demo](https://yourprojectdemo.com)
+
+---
+
+## Contact Me:
+
+Feel free to reach out if you're interested in collaboration or have any questions about my work. I am open to new opportunities and challenges. My professional contacts: 
+
+- **Email**: [averiwylie040706@gmail.com](mailto:averiwylie040706@gmail.com)
+- **LinkedIn**: [Averi Wylie On LinkedIn]((https://www.linkedin.com/in/averi-wylie-64963a33a/))
+- **GitHub**: [GitHub Profile]((https://github.com/AveriWylie))
+
+---
+
+Thank you for visiting and appreciating my work. I look forward to connecting with you!
+
+---
+
+*Disclaimer: All projects are developed by me as part of my professional development and are built using [GitHub Pages](https://pages.github.com/).*
 
